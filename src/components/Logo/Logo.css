@@ -1,0 +1,9 @@
+.Tilt{
+	border: 1px solid;
+	box-shadow: 1px 1px 3px;
+	background: linear-gradient(90deg, #FF5EDF 0%, #04C8DE 100%);
+}
+
+.brainLogo{
+	padding-top: 5px;
+}
