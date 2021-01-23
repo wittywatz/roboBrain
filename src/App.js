@@ -23,7 +23,7 @@ const particleOptions = {
 
  
 const app = new Clarifai.App({
- apiKey: '20fd1cea5d5d42299eb806ddbe8f77a5'
+ apiKey: 'KEY GOES HERE'
 });
 
 class App extends Component {
